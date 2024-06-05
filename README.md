@@ -30,10 +30,9 @@ Here are some ideas to get you started:
 <h3>I'm learning .</h3>
 
 - 🎓 I have Completed My Post Graduation in **Computer Science** from **RGPV University**. <br>
-- 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
-- 💬 I would love to talk React.js and Web Development.
-- 💞️ I’m looking to collaborate on any open source platform.
-- 💡 I am currently focusing on **Data Structures and Algorithm** in *JS* and <!--**DevOps**.--> A *beginner* contributor at **Open Source**. <br>
+- 👀 I’m interested in Frontend Development.
+- 💬 I would love to talk ReactJs,NextJs and Web Development.
+- 💞️ I’m looking to collaborate on any open source platform. <br>
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - 📫 You can connect with me  by [Mail](mailto:arti48589@gmail.com).
 
